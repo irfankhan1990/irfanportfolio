@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://soumyajitblogs.vercel.app/"
+                href="https://www.preparationtech.com/?gad_source=1&gclid=Cj0KCQjwjLGyBhCYARIsAPqTz18YTbnIdN7wkd0xhwx4slpSlH2OTXoCYHZM_Lq5PJjEaEVCTnVsK0oaAgdkEALw_wcB"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -104,7 +104,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/soumyajit4419/Portfolio"
+                href="https://github.com/irfankhan1990"
                 target="_blank"
                 className="fork-btn-inner"
               >
